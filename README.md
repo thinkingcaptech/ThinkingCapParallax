@@ -6,7 +6,7 @@ This site is a playground for experimenting with web design, sharing ideas, and 
 ## 🚀 Live Demo
 
 Check out the live site here:  
-[https://yourusername.github.io/ThinkingCapParallax/](https://yourusername.github.io/ThinkingCapParallax/)
+[https://thinkingcaptech.github.io/ThinkingCapParallax/](https://thinkingcaptech.github.io/ThinkingCapParallax/)
 
 ## 🧩 About the Project
 
